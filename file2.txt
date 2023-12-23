@@ -1,1 +1,1 @@
-file 2 in feature 1
+file 2 in feature 1. Changes in remote feature 1
